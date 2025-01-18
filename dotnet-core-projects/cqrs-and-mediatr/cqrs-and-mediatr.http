@@ -1,0 +1,6 @@
+@cqrs_and_mediatr_HostAddress = http://localhost:5202
+
+GET {{cqrs_and_mediatr_HostAddress}}/products/
+Accept: application/json
+
+###
